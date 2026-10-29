@@ -3,16 +3,55 @@
   "questions": [
     {
       "id": 1,
-      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/main/images/A_L_01.jpg",
-      "question": "تعرف إيه هو اسم الفيلم؟",
+      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/refs/heads/main/images/A_L_01.jpg",
+      "question": "تفتكر ايه هو اسم الفيلم",
       "answers": [
+        "مستشفى المجانين",
         "المليونير",
-        "شجيع السيما",
         "عنتر ولبلب",
-        "عنتر بن شداد"
+        "مليون جنيه"
       ],
       "correctAnswer": 3,
-      "ninetiesHint": "فيلم لشكوكو وسراج منير"
+      "ninetiesHint": "فيلم فيه تحدي بين شكوكو و سراج منير"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/refs/heads/main/images/R_5_02.jpg",
+      "question": "فيلم لفريد شوقي  تعرفه ؟",
+      "answers": [
+        "سلطان",
+        "رصيف نمرة 5",
+        "جعلوني مجرما",
+        "الفتوة"
+      ],
+      "correctAnswer": 2,
+      "ninetiesHint": "عمرو دياب عمل الأسم اغنية"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/refs/heads/main/images/Comar_03.jpg",
+      "question": "فيلم \" لنجيب الريحاني \" اسمه ؟",
+      "answers": [
+        "سي عمر",
+        "لعبة الست",
+        "سلامة في خير",
+        "أبو حلموس"
+      ],
+      "correctAnswer": 1,
+      "ninetiesHint": "فيلم عن تشابه بين البطل و صاحب ارضى عايش فالهند"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/refs/heads/main/images/Fano_se7.jpg",
+      "question": "فيلم لإسماعيل ياسين فاكره ؟",
+      "answers": [
+        "العتبة الخضراء",
+        "الفانوس السحري",
+        "الآنسة حنفي",
+        "المجانين في نعيم"
+      ],
+      "correctAnswer": 2,
+      "ninetiesHint": "كان اسمة فى الفيلم مصطفي . وكانو بيغنولوه يامصطفي"
     }
   ]
 }
