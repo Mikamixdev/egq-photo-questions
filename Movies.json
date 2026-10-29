@@ -52,6 +52,19 @@
       ],
       "correctAnswer": 2,
       "ninetiesHint": "كان اسمة فى الفيلم مصطفي . وكانو بيغنولوه يامصطفي"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/refs/heads/main/images/Mog_0_f.jpg",
+      "question": "فيلم لفريد شوقي  تعرفه ؟",
+      "answers": [
+        "حميدو",
+        "سلطان",
+        "أنا الهارب",
+        "جعلوني مجرما"
+      ],
+      "correctAnswer": 4,
+      "ninetiesHint": "من اشهر افلام فريد شوقي وبسببه اتلغت السابقة الاولي"
     }
   ]
 }
