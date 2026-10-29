@@ -2,7 +2,7 @@
   "category": "Movies",
   "questions": [
     {
-      "id": "1",
+      "id": 1,
       "imageUrl": "https://raw.githubusercontent.com/Mikamixdev/egq-photo-questions/main/images/A_L_01.jpg",
       "question": "تعرف إيه هو اسم الفيلم؟",
       "answers": [
